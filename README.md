@@ -1,57 +1,62 @@
-Organizzazione personale:
-  1)Calendario personale
-  2)Gestione di eventi e appuntamenti
-  3)Promemoria e notifiche
-  4)Lista di cose da fare
+Criteri di classificazione:
+  1)Facilità d'uso
+  2)Frequenza di utilizzo
+  3)Impatto sull'organizzazione
 
 
-Gruppi:
-  1)Creazione di gruppi
-  2)Invito di persone tramite link/codice
-  3)Ruoli e permessi diversi all'interno del gruppo
-  4)Gruppi per università, scuola, lavoro, sport, ecc.
-  5)Chat del gruppo
-  6)Condivisione di file e immagini
+1)Facilità d'uso:
+    1. Creazione di account
+    2. Creazione di eventi
+    3. Calendario personale
+    4. Invito di nuovi membri
+    5. Ricerca e aggiunta di persone
+    6. Notifiche e promemoria
+    7. Calendario condiviso
+    8. Creazione di gruppi
+    9. Lista delle attività
+    10. Scadenze
+    11. Chat di gruppo
+    12. Sondaggi
+    13. Condivisione di file
+    14. Assegnazione delle attività ai membri
+    15. Sincronizzazione delle attività
 
 
-Calendario condiviso:
-  1)Calendario del gruppo
-  2)Visualizzazione degli impegni di tutti
-  3)Creazione di eventi condivisi
-  4)Possibilità di vedere quando le persone sono disponibili
+2)Frequenza di utilizzo:
+    1. Calendario personale
+    2. Calendario condiviso
+    3. Notifiche e promemoria
+    4. Creazione di eventi
+    5. Lista delle attività (To-do)
+    6. Scadenze
+    7. Chat di gruppo
+    8. Sincronizzazione delle disponibilità
+    9. Creazione di gruppi
+    10. Assegnazione delle attività ai membri
+    11. Sondaggi per decidere date/orari
+    12. Ricerca e aggiunta di persone
+    13. Invito di nuovi membri
+    14. Condivisione di file
+    15. Creazione di un account
 
 
+3)Impatto sull'organizzazione:
+    1. Sincronizzazione delle disponibilità
+    2. Calendario condiviso
+    3. Creazione di eventi
+    4. Lista delle attività (To-do)
+    5. Assegnazione delle attività ai membri
+    6. Scadenze
+    7. Calendario personale
+    8. Notifiche e promemoria
+    9. Creazione di gruppi
+    10. Sondaggi per decidere date/orari
+    11. Chat di gruppo
+    12. Invito di nuovi membri
+    13. Ricerca e aggiunta di persone
+    14. Condivisione di file
+    15. Creazione di un account
 
-Attività e progetti in un gruppo:
-  1)Creazione di attività
-  2)Assegnazione di attività ai membri
-  3)Scadenze
-  4)Stato delle attività(da fare, in corso, completata)
-  5)Notifica quando qualcuno completa un'atività
-
-
-
-Comunicazione:
-  1)Chat di gruppo
-  2)Chat private
-  3)Sondaggi
-  4)Reazioni ai messaggi
-  5)Condivisione documenti
-  6)Messaggi fissati
-
-
-Organizzazione di eventi in guppo:
-  1)Creazione dell'evento
-  2)Luogo e orario
-  3)Lista partecipanti
-  4)Conferma presenza
-  5)Sondaggi per gestire meglio il tutto
-  
-
-Notifiche:
-  1)Avviso di modifiche ad eventi
-  2)Promemoria per attività non completate
-  3)Avviso quando ti viene assegnata un'attività
-  4)Notifica se vieni aggiunto ad un gruppo
-  5)Notifiche per eventi in arrivo
+    
+    
    
