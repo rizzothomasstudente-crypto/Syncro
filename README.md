@@ -1,12 +1,12 @@
 Criteri di classificazione:
-  1)Facilità d'uso
-  2)Frequenza di utilizzo
-  3)Impatto sull'organizzazione
+1)Facilità d'uso
+2)Frequenza di utilizzo
+3)Impatto sull'organizzazione
 
 
 1)Facilità d'uso:
-    1. Creazione di account
-    2. Creazione di eventi
+1. Creazione di account
+2. Creazione di eventi
     3. Calendario personale
     4. Invito di nuovi membri
     5. Ricerca e aggiunta di persone
