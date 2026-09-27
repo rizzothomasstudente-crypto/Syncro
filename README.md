@@ -27,13 +27,13 @@ Criteri di classificazione:
 2. Calendario condiviso
 3. Notifiche e promemoria
 4. Creazione di eventi
-5. Lista delle attività (To-do)
+5. Lista delle attività 
 6. Scadenze
 7. Chat di gruppo
 8. Sincronizzazione delle disponibilità
 9. Creazione di gruppi
 10. Assegnazione delle attività ai membri
-11. Sondaggi per decidere date/orari
+11. Sondaggi 
 12. Ricerca e aggiunta di persone
 13. Invito di nuovi membri
 14. Condivisione di file
@@ -45,12 +45,12 @@ Criteri di classificazione:
 2. Calendario condiviso
 3. Sincronizzazione delle disponibilità
 4. Creazione di eventi
-5. Lista delle attività (To-do)
+5. Lista delle attività 
 6. Assegnazione delle attività ai membri
 7. Chat di gruppo
 8. Scadenze
 9. Notifiche e promemoria
-10. Sondaggi per decidere date/orari
+10. Sondaggi 
 11. Calendario personale
 12. Invito di nuovi membri
 13. Ricerca e aggiunta di persone
