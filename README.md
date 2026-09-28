@@ -1,31 +1,9 @@
-Criteri di classificazione:
-1. Facilità d'uso
-2. Frequenza di utilizzo
-3. Impatto sull'organizzazione
-
-
-1)Facilità d'uso:
-1. Creazione di account
-2. Creazione di eventi
-3. Calendario personale
-4. Invito di nuovi membri
-5. Ricerca e aggiunta di persone
-6. Notifiche e promemoria
-7. Calendario condiviso
-8. Creazione di gruppi
-9. Lista delle attività
-10. Scadenze
-11. Chat di gruppo
-12. Sondaggi
-13. Condivisione di file
-14. Assegnazione delle attività ai membri
-15. Sincronizzazione delle attività
 
 Requisiti funzionali:
-1. Creazione di account
-2. Creazione di eventi
-3. Calendario personale
-4. Invito di nuovi membri
+1. Come utente, voglio creare un account sulla piattaforma, così da poter iniziare a pianificare i miei calendari e le mie attività
+2. Come utente, voglio creare un nuovo evento sul mio calendario, così da bloccare il tempo dedicato ai miei impegni
+3. Come utente, voglio visualizzare il mio calendario personale, cosi da vedere tutti i miei impegni del giorno, della settimana o del mese a colpo d'occhio
+4. Come organizzatore di un evento, voglio invitare altre persone a partecipare, così da coordinare l'incontro e sapere chi sarà presente
 5. Ricerca e aggiunta di persone
 6. Notifiche e promemoria
 7. Calendario condiviso
@@ -60,7 +38,3 @@ Requisiti di dominio:
 5. GDPR
 6. Esportazione standard dei calendari - .ics (iCalendar)
 7. Visibilità degli impegni privati
-
-    
-    
-   
